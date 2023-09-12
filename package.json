@@ -2,7 +2,7 @@
   "name": "my-photo-gall",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/svenmaycry/photo-gallery",
+  "homepage": "https://photo-gallery-olive.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
